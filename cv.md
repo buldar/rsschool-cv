@@ -29,6 +29,11 @@ Looking for a job/traineeship in order to gain real experience and further self-
 - Git
 - Etc...
 
+## Languages
+- Belorussian (native)
+- Russian (native)
+- Egnlish (B1-B2)
+
 ## Conacts and social networks
 
 ![](https://img.icons8.com/material-sharp/2x/phone.png) +375-29-562-42-66 
