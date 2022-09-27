@@ -1,3 +1,3 @@
 ## My CV
 
-#### https://buldar.github.io/rsschool-cv/cv
+#### https://buldar.github.io/rsschool-cv/
